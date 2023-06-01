@@ -1,5 +1,5 @@
 ## Hello there! 
-### You can call me Signal Hijack. (^^ゞ
+### You can call me Signal Hijack. Founder of Signal Hijack Computer Entertainment.
 I'm an indie game developer who is obsessed with retro games and graphics, normally from the 90's.
 I build all of my games from scrach; I program my own engines, make my own 3D models and textures, and compose my own soundtracks.
 
@@ -9,6 +9,7 @@ I build all of my games from scrach; I program my own engines, make my own 3D mo
 - Java
 - Lua
 - Rust
+- Forth
 - HTML/CSS/JavaScript (For web-based projects)
 - BASIC (For basic projects; no pun intended ¯\\\_(ツ)\_/¯ )
 - MIPS Assembly (For PSX & N64 projects)
